@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "motion": "^10.16.4",
-    "three": "^0.156.1"
+    "three": "^0.156.1",
+    "vue-router": "^4.2.5"
   }
 }
